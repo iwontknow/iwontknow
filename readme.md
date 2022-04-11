@@ -12,13 +12,12 @@ I learned this languages by myself. I really love learning new things.
 >   - HTML and CSS ( Dont worry, i still google how to center a div )
 > - C#
 > - LUA
-
+> - Kotlin
 
 I might consider learning a few more. Like i said, i love learning new things.
 
 
 > #### Which i might start to learn...
-> - Kotlin
 > - Python
 > - Rust
 > - Dart
