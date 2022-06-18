@@ -1,7 +1,7 @@
 
 # Hello, Human.
 
-Im just a women who likes to code. Nothing special to see here.  
+Im just a woman who likes to code. Nothing special to see here.  
 I learned this languages by myself. I really love learning new things.  
 
 > #### I learned ...
