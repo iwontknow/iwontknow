@@ -11,6 +11,7 @@ I learned this languages by myself. I really love learning new things.
 >   - PHP
 >   - HTML and CSS ( Dont worry, i still google how to center a div )
 > - C#
+> - C++
 > - LUA
 > - Kotlin
 
