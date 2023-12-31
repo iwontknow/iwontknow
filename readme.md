@@ -14,6 +14,7 @@ I learned this languages by myself. I really love learning new things.
 > - C++
 > - LUA
 > - Kotlin
+> - Dart
 
 I might consider learning a few more. Like i said, i love learning new things.
 
@@ -21,6 +22,5 @@ I might consider learning a few more. Like i said, i love learning new things.
 > #### Which i might start to learn...
 > - Python
 > - Rust
-> - Dart
 > - Swift
 > - Java
